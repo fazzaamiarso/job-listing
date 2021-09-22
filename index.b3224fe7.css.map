@@ -1,0 +1,1 @@
+{"mappings":"AAAA;EACE,kBAAA;A","sources":["src/components/Wrapper.module.scss","src/components/JobItem.module.scss"],"sourcesContent":[".wrapper {\r\n  text-align: center;\r\n}\r\n",null],"names":[],"version":3,"file":"index.b3224fe7.css.map","sourceRoot":"/__parcel_source_root/"}
